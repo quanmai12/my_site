@@ -1,0 +1,23 @@
+
+a {
+    display: inline-block;
+    text-align: center;
+    padding: auto;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: auto;
+}
+li{
+    background-color: rgb(195, 253, 255);
+    display: block;
+    float: left;
+    padding: 20px;
+    color: rgb(0, 0, 0);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-right: 20px;
+    margin-left: 20px;
+}
