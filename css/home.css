@@ -11,7 +11,8 @@ li{
     background-color: rgb(195, 253, 255);
     display: block;
     float: left;
-    padding: 20px;
+    /* border: 1px solid black; */
+    padding: 10px;
     color: rgb(0, 0, 0);
 }
 ul{
@@ -20,4 +21,11 @@ ul{
     padding: 0;
     margin-right: 20px;
     margin-left: 20px;
+}
+div.image_music img{
+    width: 100%;
+    height: auto;
+}
+.image_music :hover {
+    border: 1px solid black;
 }
