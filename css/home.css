@@ -1,4 +1,7 @@
-
+body{
+    background-image: url(paper.gif);
+    background-attachment:fixed;
+}
 a {
     display: inline-block;
     text-align: center;
