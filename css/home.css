@@ -2,6 +2,14 @@ body{
     background-image: url(paper.gif);
     background-attachment:fixed;
 }
+fieldset legend{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font: bolder;
+}
+fieldset label{
+    width: 
+}
 a {
     display: inline-block;
     text-align: center;
